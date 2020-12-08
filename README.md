@@ -1,4 +1,4 @@
-# Code-scroll
+# Code-scroll 代码滚动
  ## [预览链接](https://kailoveq.github.io/Code-scroll/dist/index.html)
  
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ac87a2773e9049e0986575e781f33498~tplv-k3u1fbpfcp-watermark.image)
